@@ -1,0 +1,15 @@
+../../cm-tests/build/windows/gcc/x64/debug/.obj/mastercontrollertests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/datetimedecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/enumeratordecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/intdecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/stringdecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/main.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/clienttests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/testsuite.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_mastercontrollertests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_datetimedecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_enumeratordecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_intdecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_stringdecoratortests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_clienttests.o
+../../cm-tests/build/windows/gcc/x64/debug/.obj/moc_testsuite.o
